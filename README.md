@@ -91,5 +91,5 @@ ubi_simulator/
 
 ## 👤 Author
 
-**Muhammad Baqar Wagan** — MA Economics | KSA Data Analytics Portfolio  
+**Muhammad Baqar Wagan** — MA Economics 
 GitHub: [BaqarW-tech](https://github.com/BaqarW-tech)
